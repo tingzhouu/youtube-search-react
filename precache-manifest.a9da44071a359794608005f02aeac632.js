@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/youtube-search-react/static/css/main.e76a0262.chunk.css"
   },
   {
-    "revision": "67d8e80a692da17c6f647837c13b251e",
+    "revision": "f10dbbd5015ac6e186a51496e551626a",
     "url": "/youtube-search-react/index.html"
   }
 ];
